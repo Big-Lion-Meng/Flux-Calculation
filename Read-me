@@ -1,0 +1,11 @@
+Here, the related files are mainly related to the air-sea flux calculation. In my PhD program, I have been working on this topic for a long time. 
+
+Motion-Pack:
+It includes how to remove the influences of platform. It will also introduce my experience and my trouble when I was doing this work.
+
+Drag-Coefficient: 
+It mainly refers to a modified equation which can be used to calculate Cd. COARE algorithm package is also included here for possible comparison. 
+
+Gustiness: How I Analyze the Gustiness.
+
+Updates will be followed.
