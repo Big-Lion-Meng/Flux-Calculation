@@ -1,0 +1,17 @@
+1. Purpose: Remove the movement of the platform. 
+
+2. Elements Used: Pitch,Roll and Yaw.   (Right-hand Axis)
+								  Velocity casued by Angular Acceleration & Offset Radius.
+									Surge, Sway, and Heave.
+									
+									Complimentary Elements:
+									**Ship speed and heading information.
+									**Sampling Rate
+									**Your Own FR. Usually, you have to define your own Filtering Rate (FR) by Spectrum or Cospectrum. 
+												PS: Your best FR will change with the size of ship and different swell caused by different weater.
+											
+							
+3. My work is not finished yet, because errors are proved to be contained in the final results. It may be related to the bad FR ...
+	 or something else. 
+	 But I will upload the code later with the figures. Probably the experience of failure maybe good to somebodies.
+	 
